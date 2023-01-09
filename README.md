@@ -33,10 +33,11 @@
 - `setup DNS Cloudflare like this`
 
 ![cf](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/cf.jpg)
-# Screenshot
-![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
 # Installation
 |        Link         |  Xray Autoscript  |
 |---------------------|-------------------|
 | via WGET | `sh -c "$(wget -qO- https://s.id/xraysc)"` |
 | via CURL | `sh -c "$(curl -fsSL https://s.id/xraysc)"` |
+
+# Screenshot
+![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
