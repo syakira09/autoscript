@@ -36,4 +36,4 @@
 # Screenshot
 ![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
 # Installation
-`wget -q -O xray https://s.id/1vqsA && chmod +x xray && ./xray`
+`wget -q -O xray https://s.id/1vrfv && chmod +x xray && ./xray`
