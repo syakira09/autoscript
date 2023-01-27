@@ -23,6 +23,7 @@
 | Shadowsocks 2022 gRPC (2022-blake3-aes-256-gcm)  | 443 |
 | Nginx Webserver | 8000 |
 | Auto Delete Expired Account | ✅ |
+| DNS Changer | ✅ |
 
 |  ALTERNATIF PORT  |  NETWORK PORT  |
 |-------------------|--------|
