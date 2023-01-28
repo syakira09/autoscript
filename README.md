@@ -1,4 +1,5 @@
 # Xray Autoscript
+- `Update !!! Add DNS Setting`
 - `Note !!! for multipath please change to Xray-core mod in menu script`
 
 |  SERVICE  |  NETWORK PORT  |
@@ -23,7 +24,7 @@
 | Shadowsocks 2022 gRPC (2022-blake3-aes-256-gcm)  | 443 |
 | Nginx Webserver | 8000 |
 | Auto Delete Expired Account | ✅ |
-| DNS Changer | ✅ |
+| DNS Setting | ✅ |
 
 |  ALTERNATIF PORT  |  NETWORK PORT  |
 |-------------------|--------|
