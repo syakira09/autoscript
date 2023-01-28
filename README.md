@@ -36,6 +36,8 @@
 
 ![cf](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/cf.jpg)
 # Installation
+- `Tested Debian 11 & Ubuntu 22`
+
 |        Link         |  Xray Autoscript  |
 |---------------------|-------------------|
 | via WGET | `bash -c "$(wget -qO- https://s.id/xraysc)"` |
