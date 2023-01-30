@@ -44,4 +44,4 @@
 | via CURL | `bash -c "$(curl -fsSL https://s.id/xraysc)"` |
 
 # Screenshot
-![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray2.jpg)
+![ss](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/xray.jpg)
