@@ -38,7 +38,7 @@
 # Installation
 - `Tested Debian 11 & Ubuntu 22`
 
-|        Link         |  Xray Autoscript  |
+|        Link         |  Command  |
 |---------------------|-------------------|
 | via WGET | `bash -c "$(wget -qO- https://s.id/xraysc)"` |
 | via CURL | `bash -c "$(curl -fsSL https://s.id/xraysc)"` |
